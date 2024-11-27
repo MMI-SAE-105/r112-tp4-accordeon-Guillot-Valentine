@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Guillot
+- prénom : Valentine
+- URL Netlify : https://spiffy-marshmallow-81b212.netlify.app/
 
 # Travail
 
