@@ -19,6 +19,7 @@ details>div {
 
 details[open] {
     /* ouvert */
+    overflow: clip;
     width: 300px;
 }
 
