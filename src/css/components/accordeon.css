@@ -4,10 +4,12 @@
 .accordeon{
     display: flex;
 }
+
 details {
     /* fermé et ouvert */
     position: relative;
     width: 130px;
+    transition: width 2s;
 }
 
 details>div {
