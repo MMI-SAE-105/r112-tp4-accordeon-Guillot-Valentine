@@ -1,7 +1,9 @@
 /**
 * Accordeon
 */
-
+.accordeon{
+    display: flex;
+}
 details {
     /* fermé et ouvert */
     position: relative;
@@ -16,7 +18,6 @@ details>div {
 details[open] {
     /* ouvert */
     width: 300px;
-    
 }
 
 details>summary {
